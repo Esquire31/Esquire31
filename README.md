@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanskar Srivastava
 ==========================================================================================================================================
 
-Full-Stack Developer | Data Analyst | AI Enthusiast
+Full-Stack Developer | AI Enthusiast
 ---------------------------------------------------
 
 Greetings! I'm currently pursuing my studies at Ramaiah University of Applied Sciences while actively honing my skills as a versatile Full Stack Developer. My programming repertoire includes C++, C, C#, Java, JavaScript, and Python, which I leverage to craft seamless and dynamic user experiences. I am constantly learning and adapting to this ever-changing tech world and have an undying passion for learning more constantly.
